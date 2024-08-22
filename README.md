@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **arhamarhamhussain4@gmail.com**
 
-- ⚡ Fun fact **I ain't your elder 😁**
+- ⚡ Fun fact **The best part of coding? The ‘aha’ moment when everything clicks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
