@@ -9,18 +9,6 @@
     </a>
 </p>
 
-<p style="color: #002b62;">
-    - 💬 Ask me about <strong>HTML, CSS, JAVASCRIPT, NodeJS, React</strong>
-</p>
-
-<p style="color: #002b62;">
-    - 📫 How to reach me <strong>arhamarhamhussain4@gmail.com</strong>
-</p>
-
-<p style="color: #002b62;">
-    - ⚡ Fun fact <strong>The best part of coding? The ‘aha’ moment when everything clicks!</strong>
-</p>
-
 <h3 align="left" style="color: #050c21;">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/arhum hussain ツ" target="blank">
