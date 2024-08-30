@@ -28,7 +28,7 @@
     </a>
 </p>
 
-<h3 align="left" style="color: #050c21;">Languages and Tools:</h3>
+<h3 align="left" style="color: #050c21;">Languages, Frameworks and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" />
