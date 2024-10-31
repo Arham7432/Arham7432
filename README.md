@@ -7,22 +7,11 @@
 <img src="./GradientLine.gif" align="center" style="width: 100%" />
 </div> 
 
-<h3 align="left" style="color: #050c21;">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/arhum hussain ツ" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhum hussain ツ" height="30" width="40" />
-    </a>
-</p>
+<br>
 
-<h3 align="left" style="color: #050c21;">Languages, Frameworks and Tools:</h3>
+<h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 🦾</h3>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" />
 </div></br>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham7432&show_icons=true&locale=en&layout=compact&bg_color=050c21&border_color=002b62&card_width=300" alt="arham7432" style="width: 46%;" />
-</p>
-
-<p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arham7432&show_icons=true&locale=en&bg_color=050c21&border_color=002b62&card_width=300" alt="arham7432" style="width: 48%;" />
-</p>
