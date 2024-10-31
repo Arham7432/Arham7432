@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 🦾</h3>
+<h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 👑</h3>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
