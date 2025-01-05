@@ -12,6 +12,13 @@
 <h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 👑</h3>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,supabase,html,css,bootstrap,tailwind,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,c,php,mysql,postgresql" />
+</div></br>
+
+<h3 align="center" style="color: #050c21; font-family: Syne;">Plans of Learning 📐</h3>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,graphql,redux,vue,express,figma,terraform,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,flutter,go,swift,devops" />
 </div></br>
