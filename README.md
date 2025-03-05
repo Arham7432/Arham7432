@@ -22,3 +22,4 @@
     <img src="https://skillicons.dev/icons?i=nextjs,graphql,redux,vue,express,figma,terraform,aws" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,flutter,go,swift,devops" style="margin: 5px;" />
 </div></br>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
