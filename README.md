@@ -22,5 +22,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
-</p></br>
+
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
