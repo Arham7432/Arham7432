@@ -12,7 +12,7 @@
 <h3 align="center" style="color: #050c21; font-family: Syne;">Simply Proficient in 👑</h3>
 
 <div align="center" style="width: 80%; max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=react,firebase,supabase,html,css,bootstrap,tailwind,git,github,vscode" style="margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=react,firebase,supabase,html,css,bsd,tailwind,git,github,vscode" style="margin: 5px;" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,c,php,mysql,postgresql" style="margin: 5px;" />
 </div></br>
 
