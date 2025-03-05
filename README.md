@@ -16,10 +16,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,c,php,mysql,postgresql" style="margin: 5px;" />
 </div></br>
 
-<h3 align="center" style="color: #050c21; font-family: Syne;">Plans of Learning 📐</h3>
+<h3 align="center" style="color: #050c21; font-family: Syne;">IDE's 📐</h3>
 
-<div align="center" style="width: 80%; max-width: 900px; display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="https://skillicons.dev/icons?i=nextjs,graphql,redux,vue,express,figma,terraform,aws" style="margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,flutter,go,swift,devops" style="margin: 5px;" />
-</div></br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
+  </a>
+</p></br>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
