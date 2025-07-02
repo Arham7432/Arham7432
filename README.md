@@ -23,4 +23,10 @@
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 
+  <div align=center>
+
+![Visitor Count](https://profile-counter.glitch.me/{Arham7432}/count.svg)
+
+</div>
+
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
