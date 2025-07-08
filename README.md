@@ -23,10 +23,10 @@
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 
-  <h3 align="center" style="color: #050c21; font-family: Syne;">Profile Views 👀</h3>
+  <h3 align="center">Secret Gazes 👀</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Arham7432}/count.svg" alt="Visitor Count"/>
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/{Arham7432}/count.svg)
-
-</div>
 
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
