@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=pycharm,rider,clion,vscode,visualstudio"/>
   </a>
 
-  <div align=center>
   <h3 align="center" style="color: #050c21; font-family: Syne;">Profile Views 👀</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/{Arham7432}/count.svg)
